@@ -26,7 +26,7 @@ public class Main() {
     
         Member minsuk = Member.builder()
                 .name("김경수")
-                .job("Back-end developer job seekers🧑🏽‍💻")
+                .job("Pre Back-end developer🧑🏽‍💻")
                 .developmentFields({"Back-end🔭"})
                 .languages({"java☕"})
                 .interests({"100일 목표적기", "끌어당김의 법칙", "독서", "골프👯"})
