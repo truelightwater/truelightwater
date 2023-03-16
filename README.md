@@ -35,14 +35,14 @@ public class Main() {
     }
 }
 ```
-<br>
 
-### 🔨 Skills
+
+## 🔨 Skills
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&flat&logo=Spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-### 🛠 Tools
+## 🛠 Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
@@ -50,7 +50,7 @@ public class Main() {
 
 <br>
 
-### 🤝 Contact
+## 🤝 Contact
 
 - 📧 **Email**: truelightwater@gmail.com
 
