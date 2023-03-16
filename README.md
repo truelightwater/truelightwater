@@ -1,15 +1,12 @@
 ### 👋 안녕하세요! 
 
+Welcome to my GitHub :
 
-**truelightwater/truelightwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I'm currently studying backend development. :)
+- 🤔 I've been studying for backend development for 3 months. :) 
+- 💬 I'm moving from a product manager to a developer. :)
 
-Here are some ideas to get you started:
-
-- 🌱 현재 백엔드 개발을 공부하고 있습니다 :)
-- 🤔 개발공부는 현재 3개월차 입니다 :) 
-- 💬 기획자에서 개발자로 커리어 전환중입니다 :)
-
-<br/>
+<br>
 
 ### 🔨 Skills
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
@@ -21,6 +18,8 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
 [![truelightwater's GitHub stats](https://github-readme-stats.vercel.app/api?username=truelightwater)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ### 🤝 Contact
 
