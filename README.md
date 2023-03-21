@@ -46,8 +46,6 @@ public class Main() {
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
-[![truelightwater's GitHub stats](https://github-readme-stats.vercel.app/api?username=truelightwater)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ## 🤝 Contact
