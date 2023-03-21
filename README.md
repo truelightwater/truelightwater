@@ -46,8 +46,6 @@ public class Main() {
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-FF0000?logo=intellij%20idea&logoColor=white)
 
-<br>
-
 ## 🤝 Contact
 
 - 📧 **Email**: truelightwater@gmail.com
